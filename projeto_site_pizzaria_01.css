@@ -1,0 +1,135 @@
+.topo{
+	width: auto;
+	height: 120px;
+	background-image: linear-gradient(to right #981D25, #801474);
+	position: fixed;
+	top: 0px;
+
+}
+
+
+.logo {
+
+	width: 30%;
+	height: 120px;
+	float: left;
+}
+
+.logo p{
+	color: black;
+	font-size: 25px;
+	background-color: #ba3c3d;
+	text-align: center;
+}
+
+.menu {
+	width: 70%;
+	height: 120px;
+	background-color: black;
+	float: left;
+
+}
+
+.meumenu {
+	color: white;
+	list-style: none;
+	border: 1px solid white;
+	float: left;
+	margin-left: 16%;
+	padding: 5px;
+
+}
+
+.meumenu li{
+	position: relative;
+	float: left;
+	border-right: 1px solid white;
+	text-align: center;
+	margin-top: 10%;
+	display: inline-block;
+
+}
+
+
+.banner{
+
+	width: 90%;
+	height: auto;
+	background-color: magenta;
+	clear: both;
+	margin-left: 6%;
+
+}
+
+.banner img{
+
+	width: auto;
+	height: 220px;
+}
+
+.promo1{
+
+	width: 22%;
+	height: 400px;
+	background-color: white;
+	margin-left: 5%;
+	clear: both;
+
+	float: left;
+}
+
+
+
+.promo2{
+
+	width: 22%;
+	height: 300px;
+	background-color: white;
+	float: left;
+	border-left: 5px solid black;
+}
+
+.promo3{
+
+	width: 22.3%;
+	height: 300px;
+	background-color: white;
+	float: left;
+	border-left: 5px solid black;
+}
+
+.promo4{
+
+	width: 22.5%;
+	height: 300px;
+	background-color: white;
+	float: left;
+	border-left: 5px solid black;
+}
+
+.promo1 img {
+	width: 50%;
+	margin-left: 25%;
+	margin-top:15%;
+}
+
+
+.promo2 img {
+	width: 50%;
+	margin-left: 25%;
+	margin-top:15%;
+}
+
+
+.promo3 img {
+	width: 50%;
+	margin-left: 25%;
+	margin-top:15%;
+}
+
+
+.promo4 img {
+	width: 50%;
+	margin-left: 25%;
+	margin-top:15%;
+}

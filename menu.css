@@ -1,0 +1,22 @@
+.menu{
+	width: 90%;
+	height: 80px;
+	background-color: black;
+	margin-left: 5%;
+	float: left;
+}
+
+.meumenu {
+	color: white;
+	list-style: none;
+	border: 1px solid white;
+	float: left;
+	margin-left: 5%;
+}
+
+.meumenu li{
+	position: relative;
+	float: left;
+	border-right: 1px solid white;
+}
+

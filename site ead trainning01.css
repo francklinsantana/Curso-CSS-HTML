@@ -1,0 +1,33 @@
+    /* Estilos da barra de navegação */
+    .navbar {
+      background-color: #333; /* Cor de fundo da navbar */
+      overflow: hidden;
+    }
+
+    /* Estilos do logotipo */
+    .navbar img {
+      width: 100px; /* Tamanho do logotipo em pixels */
+      height: auto; /* A altura ajusta automaticamente para manter a proporção */
+      float: left; /* Alinhar o logotipo à esquerda */
+      margin-right: 20px; /* Espaçamento à direita do logotipo */
+    }
+
+    /* Estilos dos itens de navegação */
+    .navbar a {
+      float: left; /* Alinhar os itens à esquerda */
+      display: block; /* Faz com que os itens ocupem a largura completa da barra de navegação */
+      color: white; /* Cor do texto dos itens */
+      text-align: center; /* Centraliza o texto horizontalmente */
+      padding: 14px 16px; /* Espaçamento interno dos itens */
+      text-decoration: none; /* Remove sublinhado dos links */
+    }
+
+    /* Altera a cor dos itens de navegação quando o mouse está sobre eles */
+    .navbar a:hover {
+      background-color: #ddd; /* Cor de fundo quando hover */
+      color: black; /* Cor do texto quando hover */
+    }
+  </style>
+</head>
+
+</html>

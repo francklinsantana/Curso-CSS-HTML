@@ -1,0 +1,26 @@
+body {
+
+	background-color: darkgray;
+}
+
+.logo {
+	width: 30%;
+	height: 120px;
+	background-color: black;
+	margin-left: 5%;
+	float: left;
+}
+
+.logo p{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+
+.menu {
+	width: 60%;
+	height: 120px;
+	background-color: black;
+	float: left;
+	border-left: 5px solid white;
+}

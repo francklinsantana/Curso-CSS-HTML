@@ -1,0 +1,125 @@
+body {
+	background-color: darkgray;
+
+}
+
+.logo {
+
+	width: 30%;
+	height: 120px;
+	background-color: black;
+	margin-left: 5%;
+	float: left;
+}
+
+.logo p{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+
+.login {
+
+	width: 60%;
+	height: 120px;
+	background-color: black;
+	float: left;
+	border-left: 5px solid white;
+}
+
+.c1{
+	width: 35%;
+	height: 30px;
+	margin-top: 5%;
+	margin-left: 3%;
+}
+
+.c2 {
+	width: 35%;
+	height: 30px;
+}
+
+.bt {
+	width: 20%;
+	height: 36px;
+
+}
+
+.banner{
+
+	width: 90%;
+	height: 300px;
+	background-color: red;
+	clear: both;
+	margin-left: 5%;
+	border-top: 5px solid white;
+
+
+}
+
+
+.banner img {
+
+	width: 100%;
+}
+
+.banner01{
+
+	.p1{
+	width: 22.5%;
+	height: 400px;
+	background: white;
+	float: left;
+	border-left: solid black;
+	
+}
+
+
+.banner01 img {
+
+	width: 100%;
+}
+
+.banner02 img {
+
+	width: 100%;
+}
+
+.banner03{
+
+	width: 25%;
+	height: 180px;
+	background-color: lightyellow;
+	margin-left: 5%;
+	border-top: 5px solid white;
+
+
+}
+
+
+.banner03 img {
+
+	width: 100%;
+}
+
+.banner04{
+
+	width: 25%;
+	height: 400px;
+	background-color: lightyellow;
+	margin-left: 5%;
+	margin-top: 5%;
+	border-top: 5px solid white;
+	float: left;
+
+
+}
+
+
+.banner04 img {
+
+	width: 100%;
+}
+
+
+
